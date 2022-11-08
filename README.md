@@ -24,7 +24,7 @@ Os Arquivos trabalhados neste arquivo para o training.
 </table>
 
 <p align="center">
-Exemplso do Caltech101
+Exemplos do Caltech101
 </p>
 
 
